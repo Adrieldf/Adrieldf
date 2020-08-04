@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on other cool projects that I can share and learn more!
 - 💬 Ask me about anything, I would love to talk with you and share some thoughts.
 - 📫 How to reach me: message me via [WhatsApp][whatsapp] or on [Twitter][twitter]
-- ⚡ Fun fact: I love to play videogames.
+- ⚡ Fun fact: I love to play videogames and participate in game jams.
 
 ### Connect with me:
 
