@@ -14,9 +14,8 @@
 [<img align="left" title="WhatsApp" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" title="Twitter" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" title="Linkedin" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" title="Itch.io" alt="Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itchio]
 [<img align="left" title="Instagram" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" title="Itch.io" alt="Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itchio]
 
 <br />
 
