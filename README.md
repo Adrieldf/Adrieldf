@@ -1,7 +1,7 @@
 ### Hi, my name is Adriel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 🔭 I’m currently working on Mooble platform as a full-time job and with game development in side projects.
+- 🔭 I’m currently working on [Mooble][mooble] as a full-time job and with game development in side projects.
 - 🌱 I’m currently learning more about game development and web development.
 - 👯 I’m looking to collaborate on other cool projects that I can share and learn more!
 - 💬 Ask me about anything, I would love to talk with you and share some thoughts.
@@ -14,7 +14,9 @@
 [<img align="left" title="WhatsApp" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" title="Twitter" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" title="Linkedin" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" title="Itch.io" alt="Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itchio]
 [<img align="left" title="Instagram" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -43,7 +45,7 @@
 
 <img align="left" alt="Adrieldf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Adrieldf&show_icons=true&hide_border=false&count_private=true" />
 
-
+[mooble]: https://planner.mooble.com/us/design/Draft
 [whatsapp]: https://wa.me/5554999151985/?text=Hello!
 [website]: https://adrieldf.github.io
 [twitter]: https://twitter.com/adriel_df
