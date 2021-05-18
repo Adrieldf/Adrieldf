@@ -1,7 +1,7 @@
 ### Hi, my name is Adriel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 🔭 I’m currently working on [Mooble][mooble] as a full-time job and with game development in side projects.
+- 🔭 I’m currently working on [Mooble][mooble] as a full-time job and with mobile and/or game development in side projects.
 - 🌱 I’m currently learning more about game development and web development.
 - 👯 I’m looking to collaborate on other cool projects that I can share and learn more!
 - 💬 Ask me about anything, I would love to talk with you and share some thoughts.
