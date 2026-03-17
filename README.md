@@ -11,6 +11,7 @@
 
 ### 🕹️ Current Status
 - 🏗️ **Designing:** Game systems and GDD for *Panic at the Village* (Roguelite/Incremental).
+- 🎲 **Offline:** Dissecting board game mechanics, grinding Minecraft, or playing beach volleyball. Monitored by a dog and a cat.
 
 ### ⚙️ Engine Arsenal
 <p align="left">
