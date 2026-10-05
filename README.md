@@ -28,10 +28,6 @@
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI" />
 </p>
 
-### 🕹️ Current Status
-- 🏗️ **Designing:** *Panic at the Village* — a roguelite/incremental.
-- 🎲 **Offline:** board game mechanics, Minecraft, beach volleyball. Supervised by a dog and a cat.
-
 ---
 
 ### 📊 GitHub Stats
@@ -45,10 +41,4 @@
   <img src="https://streak-stats.demolab.com?user=Adrieldf&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrieldf&theme=redical&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adrieldf&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub trophies" />
 </p>
