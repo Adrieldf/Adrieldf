@@ -1,21 +1,54 @@
 <div align="center">
-  <h1>🎮 Adrieldf | Game Developer & Systems Engineer</h1>
-  <p>Leveraging 8+ years of high-performance web architecture to build mechanics-driven games, roguelikes, and optimized 3D systems.</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Adriel+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Web+%26+3D+Systems+Engineer+%F0%9F%A7%8A" alt="Typing intro" />
+
+<p>
+  <a href="https://www.linkedin.com/in/adrieldf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://adrieldf.github.io"><img src="https://img.shields.io/badge/Portfolio-FE428E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://adrieldf.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
+  <a href="mailto:adriel.idf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Adrieldf&color=fe428e&style=flat-square&label=Profile+Views" alt="Profile views" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adrieldf&show_icons=true&theme=radical&hide_border=false" />
-</div>
+---
 
-<br/>
+### 🛠️ Tech I Use Most
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI" />
+</p>
 
 ### 🕹️ Current Status
-- 🏗️ **Designing:** Game systems and GDD for *Panic at the Village* (Roguelite/Incremental).
-- 🎲 **Offline:** Dissecting board game mechanics, grinding Minecraft, or playing beach volleyball. Monitored by a dog and a cat.
+- 🏗️ **Designing:** *Panic at the Village* — a roguelite/incremental.
+- 🎲 **Offline:** board game mechanics, Minecraft, beach volleyball. Supervised by a dog and a cat.
 
-### ⚙️ Engine Arsenal
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal,ts,threejs,react,vite,git" />
-  </a>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adrieldf&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrieldf&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adrieldf&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrieldf&theme=redical&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adrieldf&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub trophies" />
 </p>
