@@ -9,13 +9,11 @@
   <a href="mailto:adriel.idf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Adrieldf&color=fe428e&style=flat-square&label=Profile+Views" alt="Profile views" />
-
 </div>
 
 ---
 
-### 🛠️ Tech I Use Most
+### 🛠️ Tech
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -29,16 +27,4 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adrieldf&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrieldf&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adrieldf&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
-
 </p>
